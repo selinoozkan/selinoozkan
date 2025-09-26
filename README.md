@@ -9,8 +9,9 @@ I am a senior Statistics student with a keen interest in data analytics and fina
 ---
 
 ## 📫 Connect with Me  
-- Email: selinozksn@gmail.com  
-- [LinkedIn](linkedin.com/selinoozkan)  
+- 📧 [Email](mailto:selinozksn@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/selinoozkan)  
+
 
 ---
 
