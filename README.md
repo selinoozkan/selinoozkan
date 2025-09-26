@@ -24,9 +24,3 @@ I am a senior Statistics student with a keen interest in data analytics and fina
   
 
 ---
-
-### 📈 GitHub Stats:  
-![Selin's GitHub stats](https://github-readme-stats.vercel.app/api?username=selinozksn&show_icons=true&theme=radical)  
-
-### 📊 Most Used Languages:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selinozksn&layout=compact&theme=radical)  
